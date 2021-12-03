@@ -1,0 +1,139 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(https://images0.persgroep.net/rcs/pnmGgucJ469qKyiZ9YkGkoyx1jk/diocontent/174986955/_fitwidth/763?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.8);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+ul {
+    float: right;
+    list-style-type: none;
+    margin-top: 25px;
+}
+
+ul li {
+    display: inline-block;
+}
+
+ul li a {
+    text-decoration: none;
+    color rgb (69, 175, 8);
+    padding: 5px 20px;
+    border: 1px solid rgb(69, 175, 8);
+    font-family: 'Franklin Gothic Medium';
+    transition: 0.6s ease;
+}
+
+ul li a:hover {
+    background-color: rgb(8, 39, 175);
+    color: #fff;
+}
+
+ul li.active a {
+    background-color: rgb(86, 8, 175);
+    color: #fff;
+}
+
+.logo img {
+    float: left;
+    width: 150px;
+    height: auto;
+}
+
+.main {
+    max-width: 1300px;
+    margin: auto;
+}
+
+.title {
+    position: absolute;
+    top: 46%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.title h1 {
+    color: rgb(8, 175, 167);
+    background-color: #fff;
+    border-radius: 5px 5px 5px 5px;
+    font-size: 70px;
+    font-family:Arial, Helvetica, sans-serif; 
+}
+
+.title2 {
+    position: absolute;
+    top: 58%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.title2 h1 {
+    color: #fff;
+    background-color: rgb(175, 172, 8);
+    border-radius: 7px 7px 7px 7px;
+    font-size: 70px;
+    font-family:Arial, Helvetica, sans-serif; 
+}
+
+.button {
+    position: absolute;
+    top: 69%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.btn {
+    border: 1px solid #fff;
+    padding: 10px 30px;
+    color: rgb(164, 149, 229);
+    background-color: #fff;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    transition: 0.6s ease;
+}
+
+.btn:hover {
+    background-color: rgb(58, 8, 175);
+    color: #fff;
+}
+ table, th, td {
+  border: 2px solid rgb(0, 0, 0);
+background-color: rgb(0, 255, 128);}
+
+  .achtergrond { background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(https://images0.persgroep.net/rcs/pnmGgucJ469qKyiZ9YkGkoyx1jk/diocontent/174986955/_fitwidth/763?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.8);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;}
+}
+.tekst{color:aliceblue}
+.algemeen{ background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(https://images0.persgroep.net/rcs/pnmGgucJ469qKyiZ9YkGkoyx1jk/diocontent/174986955/_fitwidth/763?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.8);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;}
+.tekst 2{color:#fff}
+{color:aliceblue}
+.rood{background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(https://images0.persgroep.net/rcs/pnmGgucJ469qKyiZ9YkGkoyx1jk/diocontent/174986955/_fitwidth/763?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.8);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;}
+ 
+    .tekst3{color:#fff}
+    .standpunt{background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(https://images0.persgroep.net/rcs/pnmGgucJ469qKyiZ9YkGkoyx1jk/diocontent/174986955/_fitwidth/763?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.8);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;}
+    .tekst4{color:#fff}
+    .tekst2{color:#fff}
+  .tekst{color:#fff}
+  .geel h1{
+    color:orange;
+  }
+  .groen h1{color: orange}
+  .blauw h1{color: orange}
+  .paars h1{color: orange}
+  
